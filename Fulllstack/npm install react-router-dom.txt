@@ -1,0 +1,5 @@
+npm install --save-dev nodemon
+npm install express mongoose dotenv cors bcryptjs jsonwebtoken
+npm install react-router-dom
+npm install axios
+npx create-react-app frontend
